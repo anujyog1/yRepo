@@ -1,2 +1,4 @@
 Name AAA
 Address: x street
+Class 3
+Section B
